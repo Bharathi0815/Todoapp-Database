@@ -1,0 +1,35 @@
+.container {
+  width: 400px;
+  height: 300px;
+  margin: auto;
+  padding: 10px;
+  position: relative;
+  text-align: center;
+  background-color: pink;
+}
+
+.input {
+  width: 250px;
+  height: 30px;
+  align-items: normal;
+}
+
+.h1 {
+  text-align: center;
+}
+.loginlink {
+  color: blue;
+  font-size: larger;
+  text-decoration: solid;
+  right: 200px;
+  float: right;
+  position: absolute;
+}
+.signuplink {
+  color: blue;
+  font-size: larger;
+  text-decoration: solid;
+  right: 140px;
+  float: right;
+  position: absolute;
+}
